@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<conversation>
+    <chatroom chatRoomId="3">
+        <message messageId="1" date="2019-02-01" time="13:00:00">
+            <from>Artem</from>
+            <text>Hello</text>
+        </message>
+        <message messageId="3" date="2019-04-05" time="15:05:08">
+            <from>Vova</from><text>How are you?</text>
+        </message>
+        <message messageId="4" date="2019-04-05" time="15:31:54">
+            <from>Artem</from><text>:)</text>
+        </message>
+  </chatroom>
+
+</conversation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<conversation>
+    <chatroom chatRoomId="1">
+        <message messageId="1" date="2019-02-01" time="13:00:00">
+            <from>Alan</from>
+            <text>Hello bro!</text>
+        </message>
+        <message messageId="2" date="2019-02-01" time="13:01:00">
+            <from>Alan</from>
+            <text>What are you doing today?</text>
+        </message>
+        <message messageId="3" date="2019-02-01" time="13:03:00">
+            <from>Gleb</from>
+            <text>Hi Gleb</text>
+        </message>
+        <message messageId="4" date="2019-02-01" time="13:03:30">
+            <from>Gleb</from>
+            <text>Actually, I have not any plans for today.</text>
+        </message>
+        <message messageId="5" date="2019-02-01" time="13:05:30">
+            <from>Gleb</from>
+            <text>Super</text>
+        </message>
+    </chatroom>
+
+</conversation>
