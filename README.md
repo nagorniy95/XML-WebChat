@@ -1,4 +1,4 @@
-# XML_WebChat
+# XML WebChat
 ==================================================================================
 Author: Artem Nahornyi
 Email: artem@novacorp.pro
