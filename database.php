@@ -3,10 +3,10 @@
 class Database
 {
     // my properties
-    private static $user = 'novacorp_chatxml';
-    private static $pass = '1&Xv8Ke2~z';
-    private static $db = 'novacorp_chatxml';
-    private static $dsn = 'mysql:host=novacorp.mysql.tools; dbname=novacorp_chatxml';
+    private static $user = '';
+    private static $pass = '';
+    private static $db = '';
+    private static $dsn = 'mysql:host=; dbname=';
     private static $dbcon;
     private function __construct()
     {
